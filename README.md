@@ -4,7 +4,7 @@
 I'm a French UX/UI designer and full stack developer that spent creating beautiful web interfaces that serve business goals.  I have lived in Thailand for over seven years and I work here for various businesses, across a range of different industries, varying from clothing brands to hotel websites.  I also have high-level web development skills, with a clear understanding of how each website will look when live and the range of designs possible during web development
 
 * 🌍  I'm based in Thailand
-* 🧠  I'm learning React.js
+* 🧠  I'm learning React.js and Node.js
 * 🤝  I'm open to collaborating on any creative project
 * ⚡  I'm a coffee lover
 
