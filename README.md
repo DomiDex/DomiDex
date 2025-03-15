@@ -4,36 +4,17 @@
 A multifaceted professional with over two decades of experience in UX/UI design, Webflow development, SEO optimisation, and digital marketing strategy, currently advancing my expertise in Full-Stack Development. My passion lies in crafting intuitive, user-centric designs and implementing strategies that enhance brand visibility, drive engagement, and deliver measurable results.
 
 
-## Throughout my career, I have:
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DomiDex&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DomiDex&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DomiDex&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-● Successfully delivered multiple Webflow projects for agencies and clients, integrating design, functionality, and SEO to create high-performing websites.
+---
+[![](https://visitcount.itsvg.in/api?id=DomiDex&icon=1&color=0)](https://visitcount.itsvg.in)
 
-● Enhanced user experiences by conducting user research, A/B testing, and implementing behavioural design methodologies.
-
-● Led cross-functional teams to execute multiple complex digital projects.
-
-● Developed SEO strategies that boosted search rankings and increased web traffic.
-
-## Academic highlights:
-
-● I have completed a Full Stack Development certification from Sigma School.
-
-● I have also completed a University Diploma of Technology (DUT) in Information and Communication from Université Jean Moulin (Lyon III)
-
-  
-Currently, I am expanding my technical skills through a Full-Stack Development certification at Sigma School, gaining hands-on expertise in technologies like React.js, Node.js, and the MERN stack. My goal is to integrate these development skills with my UX/UI and digital marketing experience to build robust, user-cantered web solutions that deliver exceptional performance and scalability.
-
-## 
-Technical skill-stack:
-
-● I have extensive knowledge of tech tools such as React, JavaScript, jQuery, Express.js, Redux, HTML, CSS, TailwindCSS, Supabase, Firebase, SQL, NoSQL, Prototyping, Wireframing, User Research, Usability Testing, Technical SEO Tools, and Link Building, amongst several others.
-
-
-## Goal and skillset:
-
-I am an exceptional team leader and always work in a high-performance mode. I am driven by a commitment to excellence, collaboration, and continuous learning, and I thrive in dynamic environments where I can apply my skills to solve real-world challenges.
-
-  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 Looking forward to connecting with other ambitious professionals!
 
